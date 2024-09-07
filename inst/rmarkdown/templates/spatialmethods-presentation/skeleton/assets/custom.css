@@ -14,15 +14,15 @@
 }
 
 .title {
-  margin-top: -150px;  /* Move the title up a bit */
+  margin-top: -100px;  /* Move the title up a bit */
 }
 
 .author {
-  margin-top: -20px;
+  margin-top: -10px;
 }
 
 .date {
-  margin-top: -20px;
+  margin-top: -10px;
 }
 
 .remark-slide-content {
