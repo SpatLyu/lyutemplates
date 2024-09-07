@@ -18,7 +18,6 @@ output:
 
 class: bgclass
 layout: true
-<!-- Sets the background class to be the AAGI logo slide background -->
 
 ---
 
