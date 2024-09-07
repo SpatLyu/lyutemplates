@@ -1,0 +1,4 @@
+name: SpatialMethods Presentation
+description: >
+   Create a presentation for team meetings based on the xaringan package.
+create_dir: FALSE
