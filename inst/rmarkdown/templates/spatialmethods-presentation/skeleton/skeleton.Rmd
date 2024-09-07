@@ -1,11 +1,11 @@
 ---
 title: "Your Presentation Title"
 author: Presenter name
-date: "`r format(Sys.Date(), '%d %B %Y')`"  # E.g. 28 March 2022
+date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    self_contained: false  # Change to true if presenting without internet access
+    self_contained: false
     css: ["robot", "robot-fonts", "assets/custom.css"]
     includes:
       in_header: "assets/mathjax-eq-num.html"
@@ -13,7 +13,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      ratio: '16:9' # alternatives '16:9' or '4:3' or others e.g. 13:9
+      ratio: '16:9'
 ---
 
 class: bgclass
